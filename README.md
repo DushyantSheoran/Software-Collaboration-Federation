@@ -1,0 +1,2 @@
+# Software-Collaboration-Federation
+Designed and implemented a Test Harness that uses App-domains to load test DLL's  • Implemented Build Server that builds both CPP and C# code files. • Xml Manager module for logging results of build server and test harness.  • Designed a Process Pool that supports independent build architecture, an interactive Client GUI using WPF.  • Implemented an Asynchronous Communication System between Servers (Mock Repository, Test Harness, Build Server and Client) using WCF and Blocking queue
